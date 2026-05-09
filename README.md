@@ -1,7 +1,7 @@
 # VK Quiz - Пояснительная записка
 
 Интерактивная платформа для проведения квизов в реальном времени.  
-Репозиторий: `C:\Users\Дмитрий\Desktop\VKproject`  
+Репозиторий: https://github.com/Dmitrii1404/vk-quiz  
 Макеты: https://www.figma.com/design/FajhMaChum348MAJaQRokW
 
 ---
